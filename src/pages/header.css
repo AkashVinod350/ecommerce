@@ -1,5 +1,5 @@
 .header {
-  background-color: rgb(8, 79, 45);
+  background-color: rgb(199, 199, 199);
   color: white;
   padding-left: 15px;
   padding-right: 15px;
@@ -136,7 +136,7 @@
 }
 
 .header .cart-quantity {
-  color: rgb(8, 79, 45);
+  color:rgb(199, 199, 199);
   font-size: 14px;
   font-weight: 700;
 
